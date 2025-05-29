@@ -9,7 +9,7 @@ I've been coding for five years. Initially, everything started with C language t
 * 🌍  I'm based in Pavia, Italy
 * 🖥️  See my portfolio at [akhilreddyrondla.com](http://akhilreddyrondla.com/)
 * ✉️  You can contact me at [akhilreddyrondla1@gmail.com](mailto:akhilreddyrondla1@gmail.com)
-* 🧠  I'm learning Node.JS,Django, Dart(Flutter)
+* 🧠  I'm learning Django, Dart(Flutter)
 
 ### Skills
 
