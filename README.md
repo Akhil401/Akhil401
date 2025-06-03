@@ -4,7 +4,7 @@ Hi 👋 My name is Akhil Reddy Rondla
 Software Developer
 -------------
 
-I've been coding for five years. Initially, everything started with C language to Embedded C and Python. I worked as a Robotics Application Engineer (R&D), Robotics Trainer and lecturer at Engineering College. I switch my career to web development. I thought it would be the future. I started learning HTML, CSS (PostCss, Sass), JavaScript(React, Node.JS) and definitely, Python (Django). I am into design, Indeed, love to make things beautiful if it is UI or layout and styles.
+I've been coding for five years. Initially, everything started with C language to Embedded C and Python. I worked as a Robotics Application Engineer (R&D), Robotics Trainer and lecturer at Engineering College. I found it very interesting development, I switch my career to web development. I started learning HTML, CSS (PostCss, Sass), JavaScript(React, Node.JS) and definitely, Python (Django). I am into design, Indeed, love to make things beautiful if it is UI or layout and styles.
 
 * 🌍  I'm based in Pavia, Italy
 * 🖥️  See my portfolio at [akhilreddyrondla.com](http://akhilreddyrondla.com/)
