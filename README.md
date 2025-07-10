@@ -7,7 +7,7 @@ Software Developer
 I've been coding for five years. Initially, everything started with C language to Embedded C and Python. I worked as a Robotics Application Engineer (R&D), Robotics Trainer and lecturer at Engineering College. I found developement, is my true interest and I used to love to JAVASCRIPT. Then, I switch my career to web development. I started learning HTML, CSS (PostCss, Sass), JavaScript frameworks (React, Node.JS) and definitely, Python (Django). I am into design, Indeed, love to make things beautiful if it is UI or layout and styles.
 
 * 🌍  I'm based in Pavia, Italy
-* 🖥️  See my portfolio at [akhilreddyrondla.com](http://akhilreddyrondla.com/)
+* 🖥️  See my portfolio at [akhilreddyrondla.pages.dev](https://akhilreddyrondla.pages.dev/)
 * ✉️  You can contact me at [akhilreddyrondla1@gmail.com](mailto:akhilreddyrondla1@gmail.com)
 * 🧠  I'm learning Django, Dart(Flutter)
 
